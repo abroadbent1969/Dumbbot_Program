@@ -1,4 +1,5 @@
-Basic AI program that really needs a large langage model. Needs to be more flexable in it's interactions and grammer. 
+Basic AI program that really needs a large language model.
+*Needs to be more flexible in it's interactions and grammer. 
 
  // List of user phrases and resonse
      {"yes", "Thanks!"},
@@ -27,7 +28,14 @@ Basic AI program that really needs a large langage model. Needs to be more flexa
      "what is up",
      "what is my mood"
  
- // List of phrases about a car or playing a game and what the bot knows
-"what do you drive?" "do you have a car?" "what sort of car do you have?" "car"  "truck"
-"shall we play a game?" "lets play a game"  "games"
-"what do you know?"  "facts" "tell me your facts"
+ // List of phrases about a car, color, name or start playing a game and what the bot knows
+	"what do you drive?" "do you have a car?" "what sort of car do you have?" "car"  "truck"
+	"shall we play a game?" "lets play a game"  "games"
+	"what do you know?"  "facts" "tell me your facts"
+	"what is my favorite color?" "color" "my color" "what is your favorite color?"
+	"what is my name?" "name" "my name"
+	"what do you drive?" "do you have a car?" "what sort of car do you have?" "car" "truck"
+	"numbers game" "number game" "guess my number" "number" "numbers"
+	"craps" "dice" "lets play craps"
+	"guessing game" "guess" "game"
+
